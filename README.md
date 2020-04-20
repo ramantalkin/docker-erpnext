@@ -60,7 +60,6 @@ Add `$PWD/` before `sites/`
 
     bench --force restore $PWD/sites/site1.local/private/backups/database.sql.gz
 
-
 ----------
 ### License
 MIT License (see LICENSE)
